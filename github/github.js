@@ -21,4 +21,3 @@ button.addEventListener("click",function(){
     })
     .catch((error)=>console.log(error));
 })
-// good work
